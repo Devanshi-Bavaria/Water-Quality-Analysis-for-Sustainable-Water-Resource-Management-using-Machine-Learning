@@ -1,4 +1,5 @@
 # Water-Quality-Analysis-for-Sustainable-Water-Resource-Management-using-Machine-Learning
+
 This repository contains the code and documentation for a machine learning project focused on predicting water potability using various classification models. The project leverages advanced ensemble methods and a novel architecture to enhance the accuracy and reliability of water quality predictions.
 
 ## Project Overview
